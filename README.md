@@ -1,5 +1,5 @@
 # Marlin 3D Printer Firmware 1.1.9 - ENDER 3 ITALIANO
-<img align="right" src="../../raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
+<img align="right" src="https://github.com/MarlinFirmware/Marlin/raw/1.1.x/buildroot/share/pixmaps/logo/marlin-250.png" />
 
 ATTENZIONE ! Questa versione di [Marlin](https://github.com/MarlinFirmware/Marlin) 1.1.9 è stata configurata per la Creality Ender 3
 
